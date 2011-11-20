@@ -6,3 +6,10 @@ Line a 04
 Line a 05
 Line a 06
 Line a 07
+
+Some new lines
+123
+234
+345
+456
+
